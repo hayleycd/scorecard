@@ -42,6 +42,11 @@
 ## Scoring
 -   [Aggregate Score](#aggregate-score)
 
+## User Guides
+-   [Easy first wins for new Scorecard projects](#)
+-   [Evaluating open source projects with Scorecard](#)
+-   [Maximizing your score with Critical and High risk checks](#)
+  
 ## Contribute
 
 -   [Report Problems](#report-problems)
@@ -548,6 +553,18 @@ weight-based average of the individual checks weighted by risk.
 
 See the [list of current Scorecard checks](#scorecard-checks) for each check's
 risk level.
+
+## User Guides
+The Scorecard team has a number of user guides to help you make the most of the Scorecard project. 
+
+### New User Guide
+Our [new user guide](#) walks maintainers through a handful of scorecard checks to get them up and running with Scorecard.  
+
+### Evaluating open source projects with Scorecard
+Does your organization want to use Scorecard to evaluate open source projects? We have [a guide](#) to help you understand a project's security posture with Scorecard. 
+
+### Maximizing your score with Critical and High risk checks
+Are you looking to maximize your Scorecard score? [This guide](#) will help you increase your score by focusing on critical and high risk checks. 
 
 ## Contribute
 
