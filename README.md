@@ -43,9 +43,9 @@
 -   [Aggregate Score](#aggregate-score)
 
 ## User Guides
--   [Easy first wins for new Scorecard projects](#)
--   [Evaluating open source projects with Scorecard](#)
--   [Maximizing your score with Critical and High risk checks](#)
+-   [Easy first wins for new Scorecard projects](#new-user-guide)
+-   [Evaluating open source projects with Scorecard](#evaluating-open-source-projects-with-scorecard)
+-   [Maximizing your score with Critical and High risk checks](#maximizing-your-score-with-critical-and-high-risk-checks)
   
 ## Contribute
 
